@@ -1,25 +1,55 @@
-Google Cybersecurity Professional certificate (Started Jun 27)
+Google Cybersecurity Professional certificate (Started Jun 27 & Completed on July 12)
 Targeted to study for 5-6 hours daily 
 
-Module 1: 
 
-Foundations to Cybersecurity
-History & Evolution of Cybersecurity
-Security Frameworks and Controls
-Ethics in Cybersecurity
-Intro to Linux, SQL, Python
 
-Module 2:
+Course 1 – Foundations of Cybersecurity (≈10 hours)
 
-CISSP's eight security domains
-CIA Triad
-NIST frameworks
-OWASP principles
-Conducting security audits
-SIEMs (Splunk and Chronicle) and SIEM dashboards
-Protecting data and Assets with Playbooks 
-Six Phases of Incident Response Playbook
+History of cybersecurity and evolution of major threats (e.g., Brain virus, Morris worm) 
+Key roles and responsibilities of an entry-level security analyst + essential core skills (communication, ethics) 
+Explained CISSP’s 8 security domains and the CIA triad
+Created a personal statement as a portfolio artifact
 
-Module 3:
+Course 2 – Play It Safe: Manage Security Risks (≈9 hours)
 
-Networks and Network security
+Threat modeling: threats, vulnerabilities, and risks
+Security frameworks like NIST CSF/RMF & OWASP
+Importance of audits and using SIEM tools + incident response playbooks 
+Conducted a security audit
+Practiced responding via a real-world incident playbook 
+
+Course 3 – Connect & Protect: Networks & Network Security (≈11 hours)
+
+Network fundamentals: TCP/IP, protocols, firewalls, VPNs, topology 
+System hardening, encryption, intrusion detection/prevention (IDS/IPS) 
+Diagrammed network architectures
+Applied system-hardening best practices
+
+Course 4 – Tools of the Trade: Linux & SQL (≈23 hours)
+
+Mastered Linux command line via Bash (file systems, user accounts, permissions) 
+Wrote SQL queries to retrieve and analyze data from databases 
+Lab work with Linux shell scripting
+Run SQL for data retrieval in a security context
+
+Course 5 – Assets, Threats & Vulnerabilities (≈19 hours)
+
+Asset classification, threat modeling, vulnerability assessment
+MITRE ATT&CK, NIST standards, and cryptography basics 
+Conducted a threat model exercise
+Identified and prioritized vulnerabilities
+
+Course 6 – Sound the Alarm: Detection & Response (≈18 hours)
+
+IDS/NIDS logs, packet analysis, TCP/IP
+Using SIEM tools (like Splunk) to detect and investigate threats 
+Interpreted network packets, crafted detection rules
+Used Splunk to hunt threats and document incident flows
+
+Course 7 – Automate Cybersecurity Tasks with Python (≈24 hours)
+
+Writing Python functions and scripts for cybersecurity
+Regular expressions for text parsing and debugging code 
+Developed automation scripts for log parsing or data extraction
+Debugged and refined code, integrating regex for threat analysis
+
